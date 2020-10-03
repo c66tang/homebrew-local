@@ -1,7 +1,8 @@
 class SipAT41920 < Formula
   desc "Tool to create Python bindings for C and C++ libraries"
   homepage "https://www.riverbankcomputing.com/software/sip/intro"
-  url "https://www.riverbankcomputing.com/static/Downloads/sip/4.19.20/sip-4.19.20.tar.gz"
+  # url "https://www.riverbankcomputing.com/static/Downloads/sip/4.19.20/sip-4.19.20.tar.gz"
+  url "https://distfiles.macports.org/py-sip/sip-4.19.20.tar.gz"
   sha256 "04cc2f87ac97e8718d8e1ef036e3ec26050ab44c21f9277618d5b67432fcbfd6"
   head "https://www.riverbankcomputing.com/hg/sip", :using => :hg
 
