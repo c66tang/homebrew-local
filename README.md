@@ -2,6 +2,8 @@
 
 To use,
 
-brew tap localbrew/boost https://github.com/c66tang/homebrew-local.git
+brew tap homebrew/local https://github.com/c66tang/homebrew-local.git
 
-brew install localbrew/boost/boost@1.55
+To install,
+brew search boost
+brew install homebrew/local/boost@1.55
